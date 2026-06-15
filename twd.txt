@@ -1,0 +1,209 @@
+Rick Grimes|Ex-xerife e principal líder do grupo, tenta manter a família e os sobreviventes vivos.
+Lori Grimes|Esposa de Rick e mãe de Carl, presa no caos emocional do início do apocalipse.
+Carl Grimes|Filho de Rick e Lori, cresce rápido demais em um mundo destruído.
+Judith Grimes|Filha bebê criada pelo grupo, símbolo de esperança para os sobreviventes.
+Shane Walsh|Ex-parceiro de Rick, protetor e cada vez mais instável com o novo mundo.
+Daryl Dixon|Caçador habilidoso, reservado e extremamente leal ao grupo de Rick.
+Merle Dixon|Irmão de Daryl, agressivo, racista e imprevisível.
+Glenn Rhee|Ex-entregador de pizza, ágil, inteligente e um dos corações do grupo.
+Carol Peletier|Sobrevivente que passa de vítima assustada a uma das pessoas mais fortes do grupo.
+Sophia Peletier|Filha de Carol, uma das primeiras grandes tragédias do grupo.
+Ed Peletier|Marido abusivo de Carol, hostil até mesmo antes do apocalipse.
+Andrea Harrison|Irmã de Amy, independente, impulsiva e marcada por perdas.
+Amy Harrison|Irmã mais nova de Andrea, doce e próxima dela no acampamento.
+Dale Horvath|Dono do trailer, voz moral do grupo nos primeiros tempos.
+T-Dog|Sobrevivente leal e corajoso que tenta manter o grupo unido.
+Jacqui|Sobrevivente do acampamento de Atlanta, inteligente e realista.
+Jim|Sobrevivente traumatizado do acampamento, atormentado por perdas.
+Morales|Sobrevivente de Atlanta que segue outro caminho com sua família.
+Miranda Morales|Esposa de Morales, parte do grupo original de Atlanta.
+Eliza Morales|Filha de Morales, aparece com a família nos primeiros dias.
+Louis Morales|Filho de Morales, aparece com a família nos primeiros dias.
+Morgan Jones|Primeiro sobrevivente que ajuda Rick, marcado pela perda da família.
+Duane Jones|Filho de Morgan, símbolo do que Morgan tenta proteger.
+Jenny Jones|Esposa de Morgan, transformada em zumbi após o início do surto.
+Dr. Edwin Jenner|Cientista do CDC que revela verdades assustadoras sobre o vírus.
+Hannah|Mulher transformada em zumbi vista por Rick no começo da história.
+Guillermo|Líder dos Vatos, protege idosos escondidos em Atlanta.
+Felipe|Membro dos Vatos, ajuda a cuidar dos idosos em Atlanta.
+Miguel|Membro dos Vatos, envolvido no conflito com o grupo de Rick.
+Jorge|Membro dos Vatos, parte da comunidade escondida em Atlanta.
+Hershel Greene|Fazendeiro, pai de Maggie e Beth, homem de fé e conselheiro do grupo.
+Maggie Greene|Filha de Hershel, forte, determinada e essencial para o futuro do grupo.
+Beth Greene|Filha de Hershel, sensível, musical e amadurecida pelas perdas.
+Otis|Morador da fazenda Greene, ligado ao acidente que muda o destino de Carl.
+Patricia|Esposa de Otis, ajuda Hershel na fazenda.
+Jimmy|Namorado de Beth e morador da fazenda Greene.
+Annette Greene|Esposa falecida de Hershel, mantida no celeiro após a transformação.
+Shawn Greene|Filho de Hershel, mantido no celeiro depois de virar zumbi.
+Randall Culver|Jovem de outro grupo que vira ameaça e dilema moral para Rick.
+Dave|Sobrevivente perigoso encontrado por Rick no bar.
+Tony|Parceiro de Dave, ameaça Rick, Hershel e Glenn no bar.
+Michonne|Guerreira de katana, fechada no começo e uma das maiores aliadas de Rick.
+Philip Blake / O Governador|Líder de Woodbury, carismático por fora e brutal por dentro.
+Penny Blake|Filha do Governador, mantida escondida depois de virar zumbi.
+Milton Mamet|Cientista de Woodbury, inteligente e moralmente dividido.
+Cesar Martinez|Braço direito do Governador, soldado experiente e pragmático.
+Shumpert|Aliado armado do Governador, silencioso e perigoso.
+Sasha Williams|Irmã de Tyreese, forte, prática e marcada por várias perdas.
+Tyreese Williams|Sobrevivente forte e bondoso, irmão de Sasha.
+Allen|Integrante do grupo de Tyreese, desconfiado e instável.
+Donna|Esposa de Allen, aparece com o grupo de Tyreese.
+Ben|Filho de Allen, jovem sobrevivente ligado ao grupo de Tyreese.
+Karen|Sobrevivente de Woodbury que se aproxima do grupo da prisão.
+Oscar|Prisioneiro que se alia ao grupo de Rick na prisão.
+Axel|Prisioneiro aparentemente amigável que tenta se adaptar ao grupo.
+Tomas|Prisioneiro violento e autoritário encontrado na prisão.
+Andrew|Prisioneiro vingativo que causa problemas ao grupo.
+Big Tiny|Prisioneiro grande e assustado pela ameaça dos zumbis.
+Zach|Namorado de Beth, participa das buscas por suprimentos.
+Bob Stookey|Médico do exército, alcoólatra em recuperação e sobrevivente marcado pela culpa.
+Dr. Caleb Subramanian|Médico da prisão, tenta ajudar durante a epidemia.
+Lizzie Samuels|Menina perturbada que não entende o perigo real dos zumbis.
+Mika Samuels|Irmã de Lizzie, doce, assustada e mais inocente.
+Ryan Samuels|Pai de Lizzie e Mika, pede a Carol que cuide das filhas.
+Tara Chambler|Jovem sobrevivente que começa do lado errado e depois muda.
+Lilly Chambler|Irmã de Tara, envolvida com o Governador.
+Meghan Chambler|Filha de Lilly, aproxima o Governador de uma nova família.
+David Chambler|Pai de Lilly e Tara, doente e protegido pela família.
+Alisha|Sobrevivente ligada ao grupo do Governador e a Tara.
+Pete Dolgen|Líder de um pequeno grupo encontrado pelo Governador.
+Mitch Dolgen|Irmão de Pete, mais agressivo e militarizado.
+Sam|Sobrevivente encontrado por Rick e Carol durante uma busca.
+Ana|Sobrevivente encontrada por Rick e Carol durante uma busca.
+Joe|Líder dos Claimers, segue regras violentas e ameaça o grupo de Rick.
+Len|Membro dos Claimers, entra em conflito com Daryl.
+Dan|Membro dos Claimers, brutal e perigoso.
+Billy|Membro dos Claimers, parte do grupo violento de Joe.
+Harley|Membro dos Claimers, ameaça Rick e seus aliados.
+Gareth|Líder de Terminus, educado por fora e monstruoso por dentro.
+Mary|Moradora de Terminus, ligada ao passado do lugar.
+Alex|Morador de Terminus, envolvido na falsa promessa de refúgio.
+Martin|Sobrevivente de Terminus, frio e perigoso.
+Albert|Morador de Terminus, participa das ações do grupo.
+Theresa|Moradora de Terminus, ligada ao grupo canibal.
+Abraham Ford|Ex-sargento, explosivo, leal e guiado por uma missão.
+Eugene Porter|Inteligente, medroso e dono de uma mentira que muda o rumo do grupo.
+Rosita Espinosa|Sobrevivente habilidosa, prática e boa em combate.
+Gabriel Stokes|Padre que sobreviveu isolado e carrega muita culpa.
+Noah|Jovem sobrevivente ligado ao hospital de Atlanta.
+Dawn Lerner|Policial líder do hospital Grady, controladora e autoritária.
+Dr. Steven Edwards|Médico do hospital Grady, inteligente e manipulador.
+Gorman|Policial do hospital Grady, abusivo e perigoso.
+O'Donnell|Policial do hospital Grady, desafia a liderança de Dawn.
+Lamson|Policial do hospital Grady, capturado pelo grupo de Rick.
+Amanda Shepherd|Policial do hospital Grady, tenta sobreviver dentro do sistema.
+Licari|Policial do hospital Grady, envolvido nas negociações com Rick.
+Joan|Paciente do hospital Grady, vítima dos abusos do local.
+Gavin Trevitt|Paciente do hospital Grady, usado em conflitos internos.
+Aaron|Recrutador de Alexandria, gentil e corajoso.
+Eric Raleigh|Namorado de Aaron, morador de Alexandria e parceiro nas missões.
+Deanna Monroe|Líder de Alexandria, tenta manter a civilização em pé.
+Reg Monroe|Marido de Deanna, arquiteto das muralhas de Alexandria.
+Aiden Monroe|Filho de Deanna, arrogante e despreparado para o mundo fora dos muros.
+Spencer Monroe|Filho de Deanna, inseguro e ressentido.
+Nicholas|Morador de Alexandria, covarde e problemático em missões.
+Jessie Anderson|Moradora de Alexandria que se aproxima de Rick.
+Pete Anderson|Médico de Alexandria, abusivo e perigoso.
+Ron Anderson|Filho de Jessie, ressentido com Rick e Carl.
+Sam Anderson|Filho mais novo de Jessie, assustado com o mundo lá fora.
+Olivia|Moradora de Alexandria, trabalha no estoque de suprimentos.
+Tobin|Morador de Alexandria, ajuda na construção e defesa da comunidade.
+Scott|Morador de Alexandria, participa de patrulhas e missões.
+Francine|Moradora de Alexandria, trabalha em construção e defesa.
+Heath|Morador de Alexandria, experiente em expedições.
+Denise Cloyd|Médica de Alexandria, insegura mas determinada a ajudar.
+Enid|Jovem solitária de Alexandria, marcada por perdas e próxima de Carl.
+Barbara|Moradora de Alexandria, aparece entre os sobreviventes da comunidade.
+Bruce|Morador de Alexandria, ajuda na defesa e rotina do lugar.
+Kyle|Morador de Alexandria, participa da comunidade.
+Bob Miller|Morador de Alexandria, aparece no núcleo da comunidade.
+Carter|Morador de Alexandria que teme o controle de Rick.
+Sturgess|Morador de Alexandria, assustado com missões perigosas.
+Annie|Moradora de Alexandria, participa do plano contra a horda.
+David|Morador de Alexandria envolvido na missão contra os zumbis.
+Holly|Moradora de Alexandria, ajuda nas tarefas da comunidade.
+Eastman|Homem pacifista que ensina Morgan a controlar sua violência.
+Owen|Integrante dos Wolves, cruel, fanático e obcecado pela destruição.
+Paula|Salvadora inteligente e fria, captura Carol e Maggie.
+Michelle|Salvadora ligada ao grupo de Paula.
+Molly|Salvadora do grupo de Paula, dura e desconfiada.
+Primo|Salvador capturado pelo grupo de Rick.
+Wade|Salvador que persegue Dwight e Sherry.
+Tina|Irmã de Sherry, foge dos Salvadores com Dwight.
+Dwight|Salvador marcado pelo domínio de Negan e dividido entre medo e culpa.
+Sherry|Esposa de Dwight, presa ao sistema cruel dos Salvadores.
+Tanya|Uma das esposas de Negan, presa à vida no Santuário.
+Amber|Uma das esposas de Negan, vive sob as regras dele.
+Frankie|Uma das esposas de Negan, tenta sobreviver no Santuário.
+Negan Smith|Líder dos Salvadores, carismático, cruel e controlador.
+Simon|Braço direito de Negan, violento e ainda mais instável.
+Laura|Salvadora leal ao Santuário, forte e prática.
+Arat|Salvadora cruel, participa de ações violentas de Negan.
+Gavin|Tenente dos Salvadores responsável por cobrar o Reino.
+Regina|Salvadora de alto escalão, fiel a Negan.
+Jared|Salvador provocador e cruel, inimigo de Morgan e do Reino.
+Joey|Salvador do Santuário, trabalha para Negan.
+Fat Joey|Salvador do Santuário, conhecido pelo apelido dado por Negan.
+Mark|Salvador punido por Negan, ligado a Amber.
+Dr. Emmett Carson|Médico do Santuário e irmão de Harlan Carson.
+Paul Jesus Rovia|Morador da Hilltop, ágil, inteligente e ótimo em infiltração.
+Gregory|Líder covarde da Hilltop, sempre tentando proteger a si mesmo.
+Harlan Carson|Médico da Hilltop, útil e disputado pelos Salvadores.
+Eduardo|Guarda da Hilltop, ajuda na defesa da comunidade.
+Kal|Guarda da Hilltop, leal à comunidade.
+Andy|Morador da Hilltop, envolvido no primeiro contato com Rick.
+Freddie|Morador da Hilltop, participa das missões da comunidade.
+Bertie|Moradora da Hilltop, ajuda na defesa e rotina do lugar.
+Oscar|Morador da Hilltop, aparece entre os defensores.
+Neil|Morador da Hilltop, ligado à defesa da comunidade.
+Craig|Morador da Hilltop, usado como moeda de troca pelos Salvadores.
+Ethan|Morador da Hilltop, pressionado pelos Salvadores e por Gregory.
+Ezekiel|Líder do Reino, teatral, nobre e dono de uma forte esperança.
+Jerry|Guarda fiel de Ezekiel, divertido, leal e querido pelo Reino.
+Shiva|Tigresa de Ezekiel, símbolo de força e proteção.
+Benjamin|Jovem morador do Reino, treinado por Morgan.
+Richard|Soldado do Reino, disposto a provocar guerra contra os Salvadores.
+Henry|Irmão mais novo de Benjamin, impulsivo e marcado por vingança.
+Nabila|Moradora do Reino, jardineira e sobrevivente da comunidade.
+Dianne|Arqueira do Reino, ajuda na guerra contra os Salvadores.
+Alvaro|Soldado do Reino, participa das patrulhas e combates.
+Daniel|Morador do Reino, ajuda na defesa da comunidade.
+Kevin|Morador do Reino, participa do núcleo da comunidade.
+Natania|Líder de Oceanside, desconfiada e protetora com seu povo.
+Cyndie|Moradora de Oceanside, mais aberta a ajudar Tara e o grupo.
+Beatrice|Guerreira de Oceanside, cautelosa e protetora.
+Kathy|Moradora de Oceanside, parte da defesa da comunidade.
+Rachel Ward|Jovem de Oceanside, agressiva e desconfiada com estranhos.
+Jadis / Anne|Líder dos Catadores, fala de forma estranha e faz acordos perigosos.
+Tamiel|Catadora ligada a Jadis, participa das negociações e emboscadas.
+Brion|Catador ligado a Jadis, parte do grupo do lixão.
+Alden|Salvador que começa a questionar o próprio lado.
+Morales dos Salvadores|Antigo conhecido de Rick que reaparece trabalhando para os Salvadores.
+Mara|Salvadora que comanda um posto avançado.
+Todd|Salvador ligado ao Santuário e às missões de Negan.
+Gunther|Salvador que aparece durante a guerra contra as comunidades.
+Yago|Salvador envolvido no conflito contra Rick e aliados.
+Zia|Salvadora ligada ao grupo de Negan.
+Gary|Salvador de alto escalão nas operações do Santuário.
+Leo|Salvador ligado à guerra contra as comunidades.
+Dean|Salvador cruel capturado durante a guerra.
+D.J.|Salvador que aparece entre os homens de Negan.
+Norris|Salvador envolvido nos confrontos contra Alexandria.
+Mel|Salvadora ligada ao grupo de Negan.
+Gina|Salvadora que aparece no Santuário durante a guerra.
+Quan|Salvador ligado às operações do Santuário.
+Gomez|Salvador que participa dos conflitos da oitava temporada.
+Nelson|Salvador ligado ao grupo de Negan.
+Rudy|Salvador envolvido na guerra contra as comunidades.
+Huck|Salvadora ligada ao Santuário.
+Keno|Salvador ligado ao grupo de Negan.
+Paulie|Salvador envolvido nos conflitos da guerra.
+Duke|Salvador ligado ao Santuário.
+Dino|Salvador que aparece entre os homens de Negan.
+Reilly|Salvador ligado às operações de Negan.
+Siddiq|Médico sobrevivente que Carl tenta ajudar e proteger.
+Gracie|Bebê filha de um Salvador, acolhida por Aaron.
+Georgie|Líder misteriosa que oferece conhecimento em troca de discos.
+Hilda|Assistente de Georgie, silenciosa e bem armada.
+Midge|Assistente de Georgie, viaja com Hilda e Georgie.
